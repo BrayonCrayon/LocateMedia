@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+
+*.vcsproj
+*.vcsproj.filters
+*.vcsproj.user
+
+*.sln
+*.sdf
+*.v12.suo
+*.VC.db
+
+./Debug/*
+./.vs/*
+./LocateMedia/Debug/*
